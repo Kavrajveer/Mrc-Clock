@@ -1,10 +1,10 @@
 # MRC Clock ⏰
 
-A custom, open-hardware smart alarm clock designed for the **Hack Club BLARE** challenge. Built entirely using mobile browser workflows! 🚀
+A custom, open-hardware smart alarm clock designed for the **Hack Club BLARE** challenge. Built entirely using mobile browser workflows! 
 
 ---
 
-## 🛠️ Hardware Specifications
+##  Hardware Specifications
 
 * **Microcontroller:** Seeed Studio XIAO ESP32-C3
 * **Display:** 2.25″ SPI TFT LCD Screen
@@ -14,7 +14,7 @@ A custom, open-hardware smart alarm clock designed for the **Hack Club BLARE** c
 
 ---
 
-## 📌 Pin Mapping
+##  Pin Mapping
 
 | Peripheral | Function / Pin | ESP32-C3 GPIO |
 | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ A custom, open-hardware smart alarm clock designed for the **Hack Club BLARE** c
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 * `/gerber/` — Exported Gerber manufacturing ZIP file for PCB fabrication.
 * `/cad/` — OpenSCAD source files and watertight `.stl` 3D-printable enclosure models.
@@ -38,7 +38,7 @@ A custom, open-hardware smart alarm clock designed for the **Hack Club BLARE** c
 
 ---
 
-## 💡 Engineering Notes
+##  Engineering Notes
 
 * Designed directly in mobile browser environments (EasyEDA Web & OpenSCAD Web).
 * Features internal M3 mounting standoffs, rear USB-C port access, and front-facing screen cutouts.
